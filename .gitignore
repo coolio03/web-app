@@ -1,0 +1,6 @@
+#ignore Env
+env/
+
+#ignore les migration
+merchex\db.sqlite3
+
